@@ -1,0 +1,11 @@
+name: Lobby
+version: '${project.version}'
+main: me.ghggames.lobby.Lobby
+api-version: 1.19
+#loadbefore: [ as ]
+#depend: [ as ]
+#softdepend: [ as ]
+authors: [ gghgcoding ]
+commands:
+  discord:
+  website:
